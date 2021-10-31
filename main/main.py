@@ -90,10 +90,8 @@ def fitted(floor_plan, rooms, windows):
         i = 0
         while i < len(units):
             if units[i][0]["type"] == "workRoom":
-                print("Prioritert:", units[i][0]["type"], units[i])
                 i += 1
             else:
-                print("Nedprioritert:", units[i][0]["type"], units[i])
                 temp.append(units[i])
                 units.pop(i)
         for unit in temp:
@@ -319,6 +317,7 @@ def main():
         if element["type"] == "openWork":
             col = (0, 255, 0)
         #col =(rand.randint(0, 255), rand.randint(0, 255),rand.randint(0, 255))
+        col = (0, 255, 0)
         pygame.draw.rect(
             screen, col, (element["anchorTopLeftX"], element["anchorTopLeftY"], element["width"], element["height"]), 4)
     pygame.display.flip()
