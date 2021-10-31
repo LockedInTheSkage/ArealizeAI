@@ -521,6 +521,38 @@
         "type": "workRoom"
       },
       {
+        "id": 0,
+        "width": 40,
+        "height": 40,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "workRoom"
+      },
+      {
+        "id": 0,
+        "width": 40,
+        "height": 40,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "workRoom"
+      },
+      {
+        "id": 0,
+        "width": 40,
+        "height": 40,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "workRoom"
+      },
+      {
+        "id": 0,
+        "width": 40,
+        "height": 40,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "workRoom"
+      },
+      {
         "id": 1,
         "width": 40,
         "height": 40,
@@ -566,6 +598,36 @@
         "anchorTopLeftX": 0,
         "anchorTopLeftY": 0,
         "type": "meetRoom"
+      },
+      {
+        "id": 7,
+        "width": 80,
+        "height": 80,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "openWork"
+      },
+      {
+        "id": 7,
+        "width": 80,
+        "height": 80,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "openWork"
+      },{
+        "id": 7,
+        "width": 80,
+        "height": 80,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "openWork"
+      },{
+        "id": 7,
+        "width": 80,
+        "height": 80,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "openWork"
       },
       {
         "id": 7,
@@ -680,6 +742,14 @@
         "type": "meetRoom"
       },
       {
+        "id": 16,
+        "width": 80,
+        "height": 110,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "openWork"
+      },
+      {
         "id": 17,
         "width": 80,
         "height": 21,
@@ -688,155 +758,44 @@
         "type": "meetRoom"
       },
       {
-        "id": 18,
+        "id": 16,
         "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "workRoom"
-      },
-      {
-        "id": 18,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "workRoom"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
+        "height": 110,
         "anchorTopLeftX": 0,
         "anchorTopLeftY": 0,
         "type": "openWork"
       },
       {
-        "id": 19,
+        "id": 17,
         "width": 80,
-        "height": 120,
+        "height": 21,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "meetRoom"
+      },
+      {
+        "id": 17,
+        "width": 80,
+        "height": 21,
+        "anchorTopLeftX": 0,
+        "anchorTopLeftY": 0,
+        "type": "meetRoom"
+      },
+      {
+        "id": 16,
+        "width": 80,
+        "height": 110,
         "anchorTopLeftX": 0,
         "anchorTopLeftY": 0,
         "type": "openWork"
       },
       {
-        "id": 19,
+        "id": 17,
         "width": 80,
-        "height": 120,
+        "height": 21,
         "anchorTopLeftX": 0,
         "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },{
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
-      },
-      {
-        "id": 19,
-        "width": 80,
-        "height": 120,
-        "anchorTopLeftX": 0,
-        "anchorTopLeftY": 0,
-        "type": "openWork"
+        "type": "meetRoom"
       }
     ]
   }
